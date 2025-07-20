@@ -32,7 +32,7 @@ This project is a simple yet dynamic **React Counter App** that demonstrates bot
 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/NazamShiraz/react-counter-app.git
-cd react-counter-app
+git clone https://github.com/NazamShiraz/ReactCounterapp.git
+cd ReactCounterapp
 
  
